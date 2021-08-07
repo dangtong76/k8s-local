@@ -1,0 +1,1 @@
+join_command : kubeadm join 172.16.20.11:6443 --token x372ea.1zmxdyzwao7eqodl   --discovery-token-ca-cert-hash sha256:d06e6a9b5c9c77735728924189f3ce4389819b33c80725a314426c03e984cb71
